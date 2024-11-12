@@ -13,7 +13,7 @@ from threading import Thread
 
 loop = asyncio.get_event_loop()
 
-TOKEN = "7835601263:AAEoRs1IntxsVvEWwHeGoFmBT0pSIzOGv6I"
+TOKEN = "7807648184:AAGfd_VB30-92Tmfm0a5j3BPmPdWLTvI-ZI"
 MONGO_URI = 'mongodb+srv://VENOM:VENOM@venom.xgrna.mongodb.net/?retryWrites=true&w=majority&appName=VENOM'
 FORWARD_CHANNEL_ID = -1002389821535
 CHANNEL_ID = -1002389821535
